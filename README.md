@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=C39BD3&center=true&vCenter=true&width=500&lines=%3E+SYSTEM+BOOTING...;%3E+Developer+detected+%E2%9C%93;%3E+Logic+engine+activated+%E2%9C%93;%3E+Curiosity+module%3A+ON+%E2%9C%93;%3E+STATUS%3A+ONLINE" alt="terminal boot" />
+</p>
 
 <br>
 
@@ -62,8 +63,8 @@ Organização do GitHub     █████████████████�
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rebecaccsilva&show_icons=true&hide_border=true&bg_color=1a1023&title_color=C9A0FF&icon_color=B19CD9&text_color=E0D4F7&border_color=6A3093" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaccsilva&layout=compact&hide_border=true&bg_color=1a1023&title_color=C9A0FF&text_color=E0D4F7&border_color=6A3093" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=rebecaccsilva&show_icons=true&hide_border=true&bg_color=1a1023&title_color=C9A0FF&icon_color=B19CD9&text_color=E0D4F7&border_color=6A3093" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rebecaccsilva&layout=compact&hide_border=true&bg_color=1a1023&title_color=C9A0FF&text_color=E0D4F7&border_color=6A3093" />
 </p>
 
 <p align="left">
