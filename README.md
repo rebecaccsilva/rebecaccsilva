@@ -1,16 +1,85 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=REBECA%20SILVA&fontSize=45&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20code%20universe&descAlignY=58&descColor=8b949e" />
+</p>
 
-<!--
-**rebecaccsilva/rebecaccsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=39FF14&center=true&vCenter=true&width=500&lines=%3E+SYSTEM+BOOTING...;%3E+Developer+detected+%E2%9C%93;%3E+Logic+engine+activated+%E2%9C%93;%3E+Curiosity+module%3A+ON+%E2%9C%93;%3E+STATUS%3A+ONLINE" alt="terminal boot" />
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 about-me.json
+
+```json
+{
+  "name": "Rebeca Silva",
+  "role": "Estudante de Ciência da Computação",
+  "location": "Rio de Janeiro, BR",
+  "pronouns": "ela/dela",
+  "stack": {
+    "languages": ["Python", "HTML", "CSS"],
+    "tools": ["Git", "GitHub", "VS Code"]
+  },
+  "currentFocus": "Fixar lógica de programação com projetos práticos",
+  "funFact": "Aprendendo GitHub do zero e já organizando tudo 🚀"
+}
+```
+
+<br>
+
+### ⚡ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+</p>
+
+<br>
+
+### 🚀 Featured Projects
+
+| Projeto | Descrição |
+|---|---|
+| 🔍 Zoom-Inteligente | Ajusta o zoom da página conforme o vídeo |
+| 🛒 Caixa-de-Loja | Lê preços e gera relatório da compra |
+| 🏦 Conta-Bancaria-Simples | Simulação de conta: criar, sacar, depositar |
+| ✂️ Pedra-Papel-Tesoura | Clássico jogo contra o computador |
+| 💵 Caixa-Eletronico-Saque | Simulador de saque com cálculo de cédulas |
+
+<br>
+
+### 🎯 Missão Atual
+
+```
+> Carregando objetivos...
+Lógica de programação     ████████████████░░░░  80%
+Estrutura de dados        ██████████░░░░░░░░░░  50%
+Projetos com Python       ██████████████░░░░░░  70%
+Organização do GitHub     ████████████████████ 100%
+```
+
+<br>
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rebecaccsilva&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaccsilva&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebecaccsilva&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+<br>
+
+### 📫 Contato
+
+<p align="left">
+  <a href="mailto:rebecaccsilvadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rebeca-silva-0701a3a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/beca.ccs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rebecaccsilva&style=flat&color=39FF14" alt="profile views" />
+</p>
